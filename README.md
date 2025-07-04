@@ -1,82 +1,87 @@
-🚀 We're Hiring: Python Automation Engineer
-Focus: Refactoring, Proxies, Browser Automation, Social Media
-📍 Remote | 🕒 Full-Time (Mon–Fri, 7 AM – 4 PM EST)
+Job Title: Python Automation Engineer — Custom Browser, Proxies & AI Automation
+Remote (Monday–Friday, 7:00 AM – 4:00 PM EST)
+Full-Time Contract (Includes Paid 1-Month Trial)
 
 About PRAI.co
-PRAI.co is revolutionizing public relations with AI-powered tools for digital influence. Our flagship engine — the PRAI Transformer — fuses cutting-edge automation with strategic storytelling to give brands real-time insights, massive reach, and market leadership.
+PRAI.co is redefining public relations through the power of artificial intelligence. Our proprietary platform, the PRAI Transformer helps brands achieve massive visibility, influence narratives, and dominate digital spaces with precision.
 
-We’re building smarter, faster, and more scalable automation tools — and we want you to be part of it.
+We’re now building the next generation of infrastructure: custom browser environments, self-hosted AI models, and fully autonomous automation systems. If you’re a top-tier Python engineer ready to push the limits of automation and AI, we want to work with you.
 
-🧠 What You'll Do
-Refactor and improve existing Python codebases for performance, stability, and scalability
+Role Summary
+We’re looking for a Python Automation Engineer who can go beyond standard scripting, someone with deep systems thinking who can build scalable automation, simulate human behavior in browser environments, and contribute to AI model integration.
 
-Adapt automation flows to updated APIs and social media platform changes
+This is a hands-on, zero-to-one role for engineers who want ownership, impact, and the opportunity to shape the future of an AI-driven PR and marketing powerhouse.
 
-Integrate proxy servers and IP rotation for large-scale scraping and session handling
+Key Responsibilities
+Refactor and scale automation systems to manage and scale social media engagement.
 
-Simulate human-like browser activity (clicks, scrolls, forms) while respecting anti-bot protections
+Build or modify Chromium-based browser frameworks tailored for automation.
 
-Implement systems to handle, avoid, or bypass anti-bot challenges (CAPTCHAs, rate limits)
+Integrate proxy services and manage large-scale IP rotation (self-hosted or platform-based).
 
-Scale bots to manage thousands of sessions concurrently
+Simulate complex user behavior (mouse movements, keystrokes, scrolling, timing).
 
-Use tools like Selenium, Playwright, or Puppeteer for modern browser automation
+Reverse-engineer and analyze platform protections (e.g., fingerprinting, bot detection, captchas).
 
-Integrate APIs, manage errors, timeouts, and edge cases
+Deploy and fine-tune small-scale AI models for tasks like content generation, scheduling, personalization.
 
-Work with queues, databases, logging, and monitoring to build reliable automation flows
+Maintain automation logic to adapt to platform changes (API, front-end code updates).
 
-Validate outputs, run QA, and track performance metrics post-deployment
+Connect systems to Redis, MongoDB, PostgreSQL, and message queues for distributed orchestration.
 
-🛠️ Must-Have Skills
-5+ years of hands-on Python experience
+Monitor performance and debug using logs and metrics.
 
-Strong background in code refactoring and performance tuning
+Required Skills
+3+ years of Python development with strong automation, system design, and refactoring expertise.
 
-Deep experience with browser automation (Selenium, Playwright, Puppeteer, etc.)
+Deep experience with Selenium, Playwright, Puppeteer, or Chrome DevTools Protocol.
 
-Understanding of anti-bot systems and fingerprinting avoidance
+Experience modifying or building Chromium-based browsers (via CEF, Electron, Puppeteer Core).
 
-Experience with proxies (SOCKS5, HTTPS, IP rotation)
+Advanced knowledge of anti-detection tactics: fingerprint, navigator overrides, canvas/WebGL tricks.
 
-API integration and error handling
+Proficient with proxy platforms (e.g., Luminati, Oxylabs, Smartproxy) or custom proxy setups.
 
-Simulating user behavior in browsers
+Comfortable with async programming, multithreading, and performance tuning.
 
-Async and/or multithreading
+Familiarity with AI/ML libraries like Hugging Face Transformers, PyTorch, OpenAI, or Langchain.
 
-Working knowledge of MongoDB, Redis, or PostgreSQL
+Ability to fine-tune and deploy local AI models for text generation, classification, or behavioral logic.
 
-Git and modern version control workflows
+Strong experience working with dynamic HTML/CSS/JavaScript environments.
 
-English proficiency (Intermediate+)
+Git proficiency and clear documentation habits.
 
-🌟 Nice-to-Have
-Experience with AI-assisted automation
+Intermediate or higher level of English for technical communication.
 
-Ethical web scraping experience
+Bonus Skills
+Experience training models or working with vector stores (FAISS, Pinecone).
 
-Basic understanding of front-end (HTML/CSS/DOM) for working with dynamic sites
+Knowledge of reinforcement learning for task automation or optimization.
 
-💼 Employment Details
-📝 Contract-based
+Familiarity with stealth plugins and techniques (undetected-chromedriver, puppeteer-extra).
 
-⏰ Full-time: Monday to Friday, 7 AM – 4 PM EST
+Understanding of containerization and orchestration (Docker, Celery, Kafka, RabbitMQ).
 
-🧩 Occasional overtime/weekend work may be required
+What We Offer
+Remote-first culture aligned to EST working hours.
 
-🎁 What You’ll Get
-Fully remote role, aligned with New York (EST) hours
+One-month paid trial followed by performance-based compensation increase.
 
-1-month paid trial with performance-based salary review
+The product you’ll be responsible for is designed to meet global demand and will be used by clients around the world.
 
-Opportunity to grow your income based on impact
+Exposure to cutting-edge technology at the intersection of AI, automation, and influence.
 
-Work on technology used by real users and top global PR teams
+A fast-moving environment where your ideas directly shape the product.
 
-Room to grow in automation, AI, and digital influence
+How to Apply
+To apply, please send the following to a.v@prai.us:
 
-📬 Ready to Apply?
-We're building the future of public relations with scalable, human-like automation. If you’re a Python engineer who thrives on solving complex technical challenges — let’s talk.
+Your resume or CV
 
-→ Send your CV and GitHub to: m.m@prai.us
+A portfolio, GitHub link, or example of a relevant project
+
+A short message explaining your experience with automation or browser environments
+
+If you can automate at scale, and think like an AI engineer, we’re ready to work with you.
+Apply today and help build the infrastructure of autonomous digital influence.
